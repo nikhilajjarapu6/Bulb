@@ -55,7 +55,7 @@ body {
        transform: translate(-50%,-50%);
     }
     .canvas h1{
-        font-size: 30px;
+        font-size: 25px;
         color: yellowgreen;
     }
     .bulb-off {
